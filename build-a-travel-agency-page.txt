@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="description" content="Travel website for Switzerland">
+  <title>
+     Travel Agency Page
+  </title>
+</head>
+<body>
+  <h1>Discover Zurich</h1>
+  <p>
+    Start things off by wandering through Zurich’s old town and marvelling at its historic buildings, then make a stop at the Lindenhof and enjoy the view of the city and the lake: and this is just the start of your tour of discovery through Zurich.
+  </p>
+  <h2>Packages</h2>
+  <p>
+   With the Zürich Card, you benefit from many discounts in restaurants, museums and shops and travel free of charge on public transport. An additional free luxury: Zurich has 1,200 fountains that provide fresh drinking water.
+  </p>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+  <h2>Top Itineraries</h2>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://media.myswitzerland.com/image/fetch/w_2080,h_720,c_limit,f_auto,q_auto,e_sharpen:50/https%3A%2F%2Fwww.myswitzerland.com%2F-%2Fmedia%2Fdam%2Fresources%2Fplaces%2Fz%2Fu%2Fzurich%2Fimages%20winter%2F40311_32001800.jpeg" alt="zurich image" width="300" height="300"></a>
+    <figcaption>Zuerich, Lindenhof</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://media.myswitzerland.com/image/fetch/w_2080,h_720,c_limit,f_auto,q_auto,e_sharpen:50/https%3A%2F%2Fwww.myswitzerland.com%2F-%2Fmedia%2Fcelum%20connect%2F2024%2F04%2F02%2F08%2F35%2F26%2Fzurich-hotel-opera.jpg" alt="zurich christmas market image" width="300" height="300"></a>
+    <figcaption>
+      Zurich Christmas Market
+    </figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://media.myswitzerland.com/image/fetch/w_2080,h_720,c_limit,f_auto,q_auto,e_sharpen:50/https%3A%2F%2Fwww.myswitzerland.com%2F-%2Fmedia%2Fcelum%20connect%2F2023%2F06%2F27%2F15%2F12%2F07%2Fhotel-uto-kulm.jpg" alt="Zurich, Hotel UTO KULM" width="300" height="300"></a>
+    <figcaption>Zurich, Hotel UTO KULM</figcaption>
+  </figure>
+</body>
+</html>
