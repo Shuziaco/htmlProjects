@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Quantum Computing</h1>
+        <p>Quantum computing uses quantum mechanics to perform computations, leveraging phenomena like superposition and entanglement to potentially solve problems intractable for classical computers.</p>
+        <section>
+            <h2>What is Quantum Computing</h2>
+            <p>Welcome to episode 1 in our series "What Is Quantum Computing?" Here, Olivia Lanes will break down the answers to some of the internets most common, quantum questions, organized by technical difficulty. This first episode is geared for beginners and people just diving into quantum.</p>
+            <iframe src="https://www.youtube.com/embed/jO5L1VYMhGA" title="What is quantum computing." height="300" width="400" ></iframe>
+        </section>
+        <section>
+            <h2>Microsoft new quantum chip</h2>
+            <p>Hear from the Microsoft team behind the recent breakthrough in physics and quantum computing demonstrated by the new Majorana 1 chip, engineered from an entirely new material that has the potential to scale to millions of qubits on a single chip.  Find out what is possible... </p>
+            <iframe src="https://www.youtube.com/embed/wSHmygPQukQ" title="Majorana, the path to million qubits." height="300" width="400" ></iframe>
+        </section>
+        <section>
+            <h2>Best quantum computing books</h2>
+             <p>Olivia Lanes shares 6 of her favorite books about Quantum Computing  (Aside from the Qiskit Textbook)</p>
+            <iframe src="https://www.youtube.com/embed/xpSevVullcQ" title="Best quantum computing books." height="300" width="400"></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
