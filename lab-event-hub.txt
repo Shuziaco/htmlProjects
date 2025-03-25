@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>International Conference on AI Revolution</h3>
+                <p>
+                    Amity Business School is delighted to invite you to the 18th International Conference on <em>"AI Revolution: Opportunities, Challenges, and the Path Forward"</em>, schedulted for <b>March 20-21, 2025.</b>
+                </p>
+            </article>
+            <article>
+                <h3>Web Development Bootcamp</h3>
+                <p>A hands-on workshop designed for developers looking to enhance their skills in modern web technologies including React, Node.js, and GraphQL. Perfect for both beginners and experienced developers.<br>
+<br>
+
+Date: September 5, 2024</p>
+            </article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Code-A-Thon</h3>
+                <p>A 24-hour coding competition where participants solve real-world problems using various programming languages.<br>
+<br>
+Data: June 15, 2024
+                </p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Image of Code-A-Thon challenge">
+                </article>
+                <article>
+                <h3>Gesture AI Challenge</h3>
+                <p>A competition where participants develop AI models that recognize human gestures for various applications.<br>
+<br>
+Data: Date: July 20, 2024</p>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Image of Coding challenges.">
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
